@@ -11,7 +11,7 @@ This web application generates a password for you according to your selected cri
 
 View this web application at:
 
-https://adzy404.github.io/challenge3-password-generator/
+https://AdamIsitmez.github.io/challenge3-password-generator/
 
 Press 'Generate Password' and follow the prompts.
 
